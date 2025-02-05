@@ -12,8 +12,11 @@ This repository contains the description of the test assignment for position of 
 Технологии и требования:
 
 •    Python: версия 3.12
+
 •    Django: версия 5
+
 •    База данных: MySQL 8
+
 •    Остальные библиотеки — на усмотрение разработчика.
 
 ## Задача 1. Периодический опрос эндпоинта
